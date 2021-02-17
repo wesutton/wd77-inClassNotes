@@ -39,6 +39,8 @@ switch(typeof obj.num) {
     default: console.log('What are you?')
 }
 
+//
+
 let value = typeof obj.num;
 
 if(value === 'string') {
